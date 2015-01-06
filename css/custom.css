@@ -1,2 +1,9 @@
 /* Custom CSS Code */
 
+li {
+	display: inline;
+	padding: 20px ;
+}
+body{
+	background-image: url("../images/bamboo-texture.jpg");
+}
