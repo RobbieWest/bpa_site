@@ -11,15 +11,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/css\/custom.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/custom.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/images\/bamboo-texture.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -27,6 +18,17 @@
 		"initialSize": 29803,
 		"inputAbbreviatedPath": "\/images\/bamboo-texture.jpg",
 		"outputAbbreviatedPath": "\/images\/bamboo-texture.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/china.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26698,
+		"inputAbbreviatedPath": "\/images\/china.jpg",
+		"outputAbbreviatedPath": "\/images\/china.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39,6 +41,28 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/images\/India.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17991,
+		"inputAbbreviatedPath": "\/images\/India.jpg",
+		"outputAbbreviatedPath": "\/images\/India.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Tokyo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25215,
+		"inputAbbreviatedPath": "\/images\/Tokyo.jpg",
+		"outputAbbreviatedPath": "\/images\/Tokyo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/images\/Vector-Smart-Object.jpg": {
 		"fileType": 16384,
