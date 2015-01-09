@@ -12,8 +12,12 @@ section {
 	color: #000;
 
 }
-
-h2 {
+button {
+	color: white;
+	background-color: #708090;
+	margin-left: 250px;
+}
+div pic 1 {
 	padding: 20px;
 	
 }
